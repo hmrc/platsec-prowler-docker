@@ -1,3 +1,17 @@
+Test 1:
+-------
+
 This is a deliberate leak of an AWS access key to test notification when AWS sends an AWS Health event due to credentials exposure
 
 AKIA6IH5L2NE6J26MQW2
+
+Outcome: 
+  * no AWS Health event received for credentials exposure
+
+
+Test 2:
+-------
+
+This is a deliberate leak of an AWS secret key to test notification when AWS sends an AWS Health event due to credentials exposure
+
+2eXfv3eTTceHkrVUM+qgkQKbRMDkhnYHSr2BbhAP
