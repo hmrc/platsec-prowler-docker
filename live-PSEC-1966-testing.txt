@@ -1,0 +1,8 @@
+﻿PSEC-1966 Testing :
+-------------------
+
+This is a deliberate leak of an AWS access keys to test notification when AWS sends an AWS Health event due to credentials exposure
+
+AKIAZJQW7MYGEWZSIXMA
+
+2JaKpRi9vSPLC6LbuQv/DtnoFOkfdZz77oQKzjz+
