@@ -1,3 +1,0 @@
-This is a deliberate leak of an AWS access key to test notification when AWS sends an AWS Health event due to credentials exposure
-
-AKIA6IH5L2NE6J26MQW2
