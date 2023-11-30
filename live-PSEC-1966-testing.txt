@@ -3,6 +3,6 @@
 
 This is a deliberate leak of an AWS access keys to test notification when AWS sends an AWS Health event due to credentials exposure
 
-AKIAZJQW7MYGEWZSIXMA
+AKIAZJQW7MYGDMNU5KMS
 
-2JaKpRi9vSPLC6LbuQv/DtnoFOkfdZz77oQKzjz+
+dDPOGpxIyUxpjUryx3rFSfpO6UuSZfxsFmUur1r7
